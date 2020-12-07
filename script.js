@@ -82,6 +82,5 @@ function buildHTML(arrObject)
         card.append(countryField,countryImg,cardBody);
         content.append(card);
         container.append(content);
-        console.log(element);
     });
 }
